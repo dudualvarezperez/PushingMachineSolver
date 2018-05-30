@@ -2,7 +2,11 @@
 https://play.google.com/store/apps/details?id=com.reactor.pushingmachine
 
 
-PushingMachineSolver: wrong number of parameters
+Distribuition available for Windows, requires .NET framework.
+
+
+How to use:
+
 PushingMachineSolver startingmoves filenamebase
 Where startingnesting is the minimmun moves to search for and
 datafilenamebase is the base name for 3 files:
