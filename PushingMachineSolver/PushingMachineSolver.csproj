@@ -42,11 +42,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logger.cs" />
+    <Compile Include="Maze.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="data\amateur001_target.txt" />
+    <Content Include="data\commandlines.txt" />
+    <Content Include="data\debug_target.txt" />
+    <Content Include="data\amateur001_data.txt" />
+    <Content Include="data\genius130_output.txt" />
+    <Content Include="data\genius130_target.txt" />
+    <Content Include="data\genius130_data.txt" />
+    <Content Include="data\genius131_output.txt" />
+    <Content Include="data\genius131_target.txt" />
+    <Content Include="data\genius131_data.txt" />
+    <Content Include="data\debug_data.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

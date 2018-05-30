@@ -1,0 +1,436 @@
+Solving for ..\..\data\genius131_data.txt
+Trying to solve for 41 moves took 00:03:12.6542438
+Trying to solve for 42 moves took 00:02:13.1995978
+Solved! 
+
+starting:
+2..  X
+.o o 3
+ 3 o X
+.o   X
+ o o3X
+.1 X X
+X  o X
+XX1X1X
+
+step: 1
+6..  X
+]o o 3
+]3 o X
+]o   X
+]o o3X
+]1 X X
+X  o X
+XX1X1X
+
+step: 2
+6..  X
+]oo<<7
+]3 o X
+]o   X
+]o o3X
+]1 X X
+X  o X
+XX1X1X
+
+step: 3
+6..  X
+]oo  3
+]3 o X
+]o   X
+]o o3X
+]1 X X
+X  o X
+XX1X1X
+
+step: 4
+6.o  X
+]o[  3
+]3[o X
+]o[  X
+]o[o3X
+]1[X X
+X [o X
+XX5X1X
+
+step: 5
+6.o  X
+]o   3
+]3 o X
+]o   X
+]o o3X
+]1 X X
+X  o X
+XX1X1X
+
+step: 6
+6.o  X
+]o<<<7
+]3 o X
+]o   X
+]o o3X
+]1 X X
+X  o X
+XX1X1X
+
+step: 7
+2.o  X
+ o<<<7
+ 3 o X
+ o   X
+ o o3X
+ 1 X X
+X  o X
+XX1X1X
+
+step: 8
+2.o  X
+ o<<<7
+ 3 o X
+ o   X
+ oo<7X
+ 1 X X
+X  o X
+XX1X1X
+
+step: 9
+2.o  X
+ o<<<7
+ 3 o X
+ o   X
+ oo 3X
+ 1 X X
+X  o X
+XX1X1X
+
+step: 10
+2.o  X
+ o<<<7
+ 3oo X
+ o[  X
+ o[ 3X
+ 1[X X
+X [o X
+XX5X1X
+
+step: 11
+2.o  X
+ o   3
+ 3oo X
+ o[  X
+ o[ 3X
+ 1[X X
+X [o X
+XX5X1X
+
+step: 12
+2.o  X
+ o   3
+ 3oo X
+ o   X
+ o  3X
+ 1 X X
+X  o X
+XX1X1X
+
+step: 13
+2.o  X
+ o   3
+ 3oo X
+ o   X
+o<<<7X
+ 1 X X
+X  o X
+XX1X1X
+
+step: 14
+6.o  X
+]o   3
+]3oo X
+]o   X
+]<<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 15
+2.o  X
+ o   3
+ 3oo X
+ o   X
+ <<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 16
+2.o  X
+o<<<<7
+ 3oo X
+ o   X
+ <<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 17
+2.o  X
+o    3
+ 3oo X
+ o   X
+ <<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 18
+2.o  X
+o    3
+ 3oo X
+ o   X
+    3X
+o1 X X
+X  o X
+XX1X1X
+
+step: 19
+2.o  X
+o    3
+ 3oo X
+ o   X
+<<<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 20
+6.o  X
+]    3
+]3oo X
+oo   X
+<<<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 21
+2.o  X
+     3
+ 3oo X
+oo   X
+<<<<7X
+o1 X X
+X  o X
+XX1X1X
+
+step: 22
+2.o  X
+     3
+ 3oo X
+oo   X
+    3X
+o1 X X
+X  o X
+XX1X1X
+
+step: 23
+2.o  X
+  o  3
+ 3[o X
+oo[  X
+  [ 3X
+o1[X X
+X [o X
+XX5X1X
+
+step: 24
+2.o  X
+o<<<<7
+ 3[o X
+oo[  X
+  [ 3X
+o1[X X
+X [o X
+XX5X1X
+
+step: 25
+2.o  X
+o<<<<7
+ 3 o X
+oo   X
+    3X
+o1 X X
+X  o X
+XX1X1X
+
+step: 26
+2.o  X
+o<<<<7
+ 3 o3X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 27
+2.o  X
+o    3
+ 3 o3X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 28
+2.o  X
+o    3
+ 3o<7X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 29
+2.o  X
+o    3
+ 3o 3X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 30
+2.o  X
+o o  3
+ 3[ 3X
+oo[ [X
+  [ [X
+o1[X[X
+X [o[X
+XX5X5X
+
+step: 31
+2.o  X
+o o  3
+ 3  3X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 32
+2.o  X
+o o  3
+3<<<7X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 33
+2.o  X
+o o  3
+3   3X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 34
+2.o  X
+o o  3
+3   3X
+oo   X
+     X
+o1 X X
+X  o X
+XX1X1X
+
+step: 35
+2.o 3X
+o o [3
+3   [X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 36
+2o<<7X
+o o [3
+3   [X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 37
+2o  3X
+o o [3
+3   [X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 38
+2oo 3X
+o [ [3
+3 [ [X
+oo[ [X
+  [ [X
+o1[X[X
+X [o[X
+XX5X5X
+
+step: 39
+2oo 3X
+o   [3
+3   [X
+oo  [X
+    [X
+o1 X[X
+X  o[X
+XX1X5X
+
+step: 40
+2oo 3X
+o    3
+3    X
+oo   X
+     X
+o1 X X
+X  o X
+XX1X1X
+
+step: 41
+2oo 3X
+o<<<<7
+3    X
+oo   X
+     X
+o1 X X
+X  o X
+XX1X1X
+
+step: 42
+2oo 3X
+o<<<<7
+3o   X
+o[   X
+ [   X
+o5 X X
+X  o X
+XX1X1X
+
+FINAL SOLUTION!

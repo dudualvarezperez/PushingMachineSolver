@@ -1,0 +1,4 @@
+﻿PushingMachineSolver.exe 1 ..\..\data\debug
+PushingMachineSolver.exe 14 ..\..\data\amateur001
+PushingMachineSolver.exe 40 ..\..\data\genius130
+PushingMachineSolver.exe 40 ..\..\data\genius131

@@ -1,0 +1,8 @@
+﻿2..  X
+.o o 3
+ . o X
+.o   X
+ o o3X
+.1 x X
+x  . X
+xx1x1X

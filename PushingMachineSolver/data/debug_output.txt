@@ -1,0 +1,48 @@
+Solving for ..\..\data\debug_data.txt
+Trying to solve for 1 moves took 00:00:00
+Trying to solve for 2 moves took 00:00:00
+Trying to solve for 3 moves took 00:00:00
+Trying to solve for 4 moves took 00:00:00
+Solved! 
+
+starting:
+XXX2XX
+X    X
+X    X
+4 . o3
+X    X
+XXXXXX
+
+step: 1
+XXX2XX
+X    X
+X    X
+4o<<<7
+X    X
+XXXXXX
+
+step: 2
+XXX2XX
+X    X
+X    X
+4o   3
+X    X
+XXXXXX
+
+step: 3
+XXX6XX
+X  ] X
+X  ] X
+4o ] 3
+X  ] X
+XXXXXX
+
+step: 4
+XXX6XX
+X  ] X
+X  ] X
+8>o] 3
+X  ] X
+XXXXXX
+
+FINAL SOLUTION!
